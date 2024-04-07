@@ -1,5 +1,5 @@
 # Pickleball Reserver #
-This repo is a GCF that is meant to reserve Pickleball classes at a gym
+This repo is a GCF that is meant to reserve
 ### Example Payload ###
 ````
 {
